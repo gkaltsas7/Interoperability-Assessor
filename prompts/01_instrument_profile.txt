@@ -1,0 +1,1 @@
+Extract title, type, authority, jurisdiction, lifecycle posture, policy objective, digital public service elements, cross-border elements, source completeness, and limitations.

@@ -1,0 +1,1 @@
+Assess legal, organisational, semantic, technical, governance, user-experience and security/trust effects. Include effect type, barrier type, root cause, implementation dependency and corrective direction.

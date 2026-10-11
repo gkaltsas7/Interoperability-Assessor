@@ -1,0 +1,1 @@
+Separate explicit legacy administrative anti-patterns from drafting and implementation under-specification patterns. Neutral terms such as database or registry are not negative anti-patterns by themselves.

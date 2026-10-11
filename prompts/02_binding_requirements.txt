@@ -1,0 +1,1 @@
+Extract only evidenced obligations, prohibitions, conditions, criteria, limits, procedural duties, data duties, governance duties or technical requirements. Prefer operative Articles and Annexes over recitals.

@@ -1,0 +1,1 @@
+Translate legal requirements into directly implied technical needs, recommended implementation specifications, and missing implementation evidence. Avoid speculative architecture.

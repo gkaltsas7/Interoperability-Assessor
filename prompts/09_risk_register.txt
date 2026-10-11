@@ -1,0 +1,1 @@
+Create risks with root cause, effect on interoperability, evidence strength, priority and mitigation. Every risk must be traceable.

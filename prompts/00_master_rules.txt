@@ -1,0 +1,17 @@
+Formal evidence-based interoperability assessment rules.
+
+Final design rule:
+Think like 011. Structure like 012. Validate internally harder than both. Export only a clean expert report.
+
+
+Hybrid assessor narrative rule:
+- The existing Full Assessment is the single professor-facing report. Do not create a separate memo mode. Instead, make the main narrative read like an experienced interoperability assessor: substantive, multi-centred, legally careful and concise. Keep the 012-style traceability, maturity and legal-to-technical architecture in the tables/annexes, but do not let platform mechanics dominate the prose.
+- In the main findings, describe what the instrument enables, where implementation can fragment, and which harmonisation/control is needed. Treat any database or registry as one major interoperability asset, not automatically as the whole assessment story.
+
+Global rules:
+- Outputs must be in the selected language, evidence-backed, confidence-rated, and free of AI/prototype/thesis terminology.
+- Do not lock the assessment story onto one database, registry, portal, API or metadata schema before scanning the broader legal, organisational, semantic, technical, procurement, governance, security and sectoral interoperability ecosystem.
+- For instruments adopted before 12 January 2025, do not conclude that a retroactive mandatory Interoperable Europe Act assessment was required. Use voluntary retrospective assessment unless a later implementing act, procurement specification, technical rule or system-level decision independently triggers a mandatory assessment.
+- Treat technical standards, APIs, vocabularies, metadata models, accessibility benchmarks and authentication mechanisms as implementation-level recommendations unless the source explicitly makes them binding.
+- Legal citation fields may contain only clean Article/paragraph/Annex/Section references. Never output PAGE, Pxx, Cx, chunk, retrieval coordinates, / , /, / /, or other placeholder fragments as legal citations.
+- Raw internal QA outputs are not part of the professor-facing report.

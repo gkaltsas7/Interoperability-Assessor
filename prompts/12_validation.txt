@@ -1,0 +1,13 @@
+Internal validation stage.
+
+Challenge unsupported, overconfident, contradictory or vague conclusions and recommend retain/downgrade/reframe/remove/needs-evidence actions.
+
+Mandatory internal checks:
+- Trigger consistency, especially the adopted-before-12-January-2025 rule.
+- Anti-tunnel check: the report must not over-centre one database, platform, API, metadata schema or registry when broader interoperability issues exist.
+- Provision and citation QA: no Article/Recital confusion, no non-existent Article references, no retrieval coordinates in legal citation fields, no empty citation fragments.
+- Legal-to-technical distinction: implementation standards must not be presented as direct legal obligations unless explicitly mandated by source text.
+- Risk/recommendation consistency: every major risk should map to at least one corrective recommendation.
+- Count consistency: dashboard counts must match the rendered report or explicitly say “top risks/findings”.
+
+This validation is internal. Do not render raw validation, challenge, anti-tunnel, provision-QA or retrieval-diagnostic tables in the professor-facing report.
